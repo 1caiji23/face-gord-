@@ -1,0 +1,19 @@
+[
+    {
+        "id": "edc824161e4242ebbb63a1631e120327",
+        "filename": "cd75b6a5954e441ba915e716663389e5.jpg",
+        "original_province": "Beijing",
+        "ratings": [
+            {
+                "score": 8,
+                "guessed_province": "Shanghai",
+                "rater_province": "Sichuan"
+            },
+            {
+                "score": 5,
+                "guessed_province": "Beijing",
+                "rater_province": "Guangdong"
+            }
+        ]
+    }
+]
